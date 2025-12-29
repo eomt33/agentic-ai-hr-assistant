@@ -27,3 +27,17 @@ The diagram below illustrates the end-to-end architecture of the agentic HR assi
 - Data analysis & evaluation
 - Explainable AI
 - Research documentation
+
+
+
+
+
+
+
+## How to Run
+
+This project is implemented as a Jupyter notebook.
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/eomt33/agentic-ai-hr-assistant.git
