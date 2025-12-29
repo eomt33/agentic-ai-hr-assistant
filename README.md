@@ -30,14 +30,11 @@ The diagram below illustrates the end-to-end architecture of the agentic HR assi
 
 
 
-
-
-
+## Example Output
+The system returns policy-grounded answers along with similarity scores that indicate which document sections informed the response. This supports transparency and explainability in compliance-sensitive contexts.
 
 ## How to Run
-
 This project is implemented as a Jupyter notebook.
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/eomt33/agentic-ai-hr-assistant.git
