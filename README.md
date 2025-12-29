@@ -3,6 +3,10 @@
 ## Overview
 This project implements an agentic AI HR assistant that answers HR-related questions using retrieval-augmented generation (RAG). The system retrieves relevant policy sections from internal documents and generates grounded, explainable responses suitable for compliance-sensitive environments.
 
+## System Architecture
+The diagram below illustrates the end-to-end architecture of the agentic HR assistant, including document ingestion, retrieval-augmented generation (RAG), and the user-facing interface.
+![Agentic HR Assistant Architecture](figures/system_architecture.png)
+
 ## Key Contributions
 - Retrieval-augmented question answering over policy documents
 - Similarity-based evidence grounding for explainability
